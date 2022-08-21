@@ -1,0 +1,4 @@
+run = "rm -rf session.json && npm i @adiwajshing/baileys@4.1.0 && node index.js"
+
+[nix]
+channel = "stable-22_05"
