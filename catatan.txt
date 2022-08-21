@@ -1,0 +1,1 @@
+Untuk Pengguna Heroku, Bebas Mau Pilih Workernya.. Asalkan Yang Di Hidupkan 1 Aja.. Kalo Dua Duanya Ntar Ke Tabrak Sama Session-nya... Jadi Loading Mulu Botnya..
